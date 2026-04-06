@@ -4,7 +4,7 @@ An interactive geo-spatial dashboard for analyzing global air pollution (PM2.5) 
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Air pollution is a major global health concern, with significant variations across regions and countries.  
 This project explores global PM2.5 pollution patterns through geo-spatial data analysis and interactive visualization.
@@ -17,7 +17,7 @@ The dashboard enables users to:
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Analyze global PM2.5 pollution data  
 - Identify spatial patterns and hotspots  
@@ -26,9 +26,9 @@ The dashboard enables users to:
 
 ---
 
-## 📊 Features
+## Features
 
-### 🌍 Geo-spatial Visualizations
+### Geo-spatial Visualizations
 - **Scatter Map**  
   Displays point-level PM2.5 measurements across the globe  
 
@@ -37,7 +37,7 @@ The dashboard enables users to:
 
 ---
 
-### 📈 Analytical Visualizations
+### Analytical Visualizations
 - **Bar Chart**  
   Highlights the top 10 most polluted countries  
 
@@ -46,7 +46,7 @@ The dashboard enables users to:
 
 ---
 
-### 🎛️ Interactivity
+### Interactivity
 - Country filter (dropdown)  
 - PM2.5 range filter (slider)  
 - Map click interaction (cross-filtering)  
@@ -54,7 +54,7 @@ The dashboard enables users to:
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 
 - Air pollution is **unevenly distributed globally**  
 - Certain regions exhibit **high pollution concentrations (hotspots)**  
@@ -63,7 +63,7 @@ The dashboard enables users to:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python**
 - **Dash** (interactive dashboard framework)
@@ -72,7 +72,7 @@ The dashboard enables users to:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 air-pollution-dashboard/  
 │  
 ├── data/  
@@ -85,7 +85,7 @@ air-pollution-dashboard/
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### 1. Clone the repository
 
