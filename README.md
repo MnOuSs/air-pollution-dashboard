@@ -73,15 +73,15 @@ The dashboard enables users to:
 ---
 
 ## 📁 Project Structure
-air-pollution-dashboard/
-│
-├── data/
-├── src/
-│ └── app.py
-├── notebooks/
-├── outputs/
-├── requirements.txt
-└── README.md
+air-pollution-dashboard/  
+│  
+├── data/  
+├── src/  
+│ └── app.py  
+├── notebooks/  
+├── outputs/  
+├── requirements.txt  
+└── README.md  
 
 ---
 
@@ -92,11 +92,13 @@ air-pollution-dashboard/
 ```bash
 git clone https://github.com/MnOuSs/air-pollution-dashboard.git
 cd air-pollution-dashboard
+```
 
 ### 2. Install dependencies
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### 3. Run the dashboard
 
